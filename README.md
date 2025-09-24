@@ -60,12 +60,3 @@ This website serves as a comprehensive digital presence for a creative agency, d
 | Large Desktop  | `> 1200px`      | Enhanced spacing, larger typography      |
 
 ---
-
-## 🚀 Deployment Instructions  
-**GitHub Pages (Recommended):**  
-1. Push your project to a GitHub repository.  
-2. Go to **Settings > Pages** in your repo.  
-3. Select the branch (e.g., `main`) and root directory.  
-4. Save, and your live site will be published.  
-
----
