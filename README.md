@@ -13,7 +13,7 @@ This website serves as a comprehensive digital presence for a creative agency, d
 ---
 
 ## 🚀 Live Demo  
-**Live URL:** [http://127.0.0.1:5500/Python/Week%208py/portfolio.html]
+**Live URL:** [https://shee440.github.io/Wk8-july-2025-final-project-and-deployment-Final-Project-and-Depl/]
 
 -- 
 
